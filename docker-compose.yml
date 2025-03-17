@@ -3,5 +3,5 @@ version: "3.8"
 services:
   web :
     image: "souravshinde/notes-app:latest"
-    ports :
+    ports:
         -"8000:8000"
